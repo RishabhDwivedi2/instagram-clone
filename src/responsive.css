@@ -1,0 +1,291 @@
+@media screen and (max-width: 1200px)
+{
+    .first-left{
+        left: 0%;
+    }
+    .first-right{
+        width: 30%;
+        left: 60%;
+    }
+}
+@media screen and (max-width: 1000px)
+{
+    .first-left{
+        left: -5%;
+    }
+    .first-right{
+        width: 35%;
+        left: 60%;
+    }
+}
+@media screen and (max-width: 850px)
+{
+    .first-left{
+        display: none;
+    }
+    .first-ig-banner{
+        width: 390px;
+        height: 150px;
+        margin-bottom: 40px;
+    }
+    .first-right{
+        border: none;
+        width: 65%;
+        left: 20%;
+        top: 0%;
+        height: 100vh;
+    }
+    
+}
+@media screen and (max-width: 550px)
+{
+    
+    .first-ig-banner{
+        width: 370px;
+        height: 140px;
+        margin-bottom: 30px;
+    }
+    form{
+        width:70%;
+    }
+    .first-right{
+        width: 85%;
+        left: 9%;
+    }
+    
+}
+@media screen and (max-width: 400px)
+{
+    .first-ig-banner{
+        width: 300px;
+        height: 150px;
+        margin-bottom: 30px;
+    }
+    .first-right{
+        width: 100%;
+        left: 0%;
+    }
+}
+@media screen and (max-width: 350px)
+{
+    .first-ig-banner{
+        width: 320px;
+        height: 150px;
+        margin-bottom: 50px;
+    }
+    form{
+        width: 80%;
+    }
+    hr{
+        background-color: black;
+        height: 0px;
+        width: 50px;
+        margin: 0px 5px;
+    }
+    h4{
+        font-size: 10px;
+    }
+    .first-fb-icon{
+        width: 20px;
+        height: 20px;
+    }
+    .first-fb-login{
+        font-size: 14px;
+    }
+    .first-pass-forgot{
+        font-size: 13px;
+    }
+    .first-section-2{
+        
+    }
+    .first-signup{
+        color: rgb(6, 173, 240);
+        font-weight: 600;
+        text-decoration: none;
+    }
+    h5{
+        font-weight: 300;
+        margin: 15px;
+    }
+    .first-links{
+        width: 200px;
+        height: 30px;
+        margin: 10px;
+    }
+}
+/* /////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+@media screen and (max-width: 750px)
+{
+    .second-search-bar{
+        display: none;
+    }
+    .second-story-section{
+        width: 80%;
+    }
+    .second-story{
+        width: 50px;
+        height: 50px;
+    }
+    .second-post-section-1{
+        width: 160%;
+    }
+    .second-post-LCS{
+        width: 160%;
+    }
+    h3,.second-comments-1,
+    .second-comments-2,.second-comment-section{
+        width: 160%;
+    }
+}
+@media screen and (max-width: 640px)
+{
+    .second-story-section{
+        width: 100%;
+    }
+    .second-story{
+        width: 50px;
+        height: 50px;
+    }
+    .second-post-section-1{
+        width: 180%;
+    }
+    .second-post-LCS{
+        width: 160%;
+    }
+    h3,.second-comments-1,
+    .second-comments-2,.second-comment-section{
+        width: 160%;
+    }
+    .second-navbar
+    {
+        justify-content: center;
+    }
+    .second-ig-banner{
+        width: 180px;
+        padding: 20px;
+    }
+    .second-ig-icons{
+        position:fixed;
+        top:64.7pc;
+        /* left: -2pc; */
+        width: 100%;
+        padding: 10px 10px;
+        background-color: rgb(255, 255, 255);
+        border: 1px solid rgb(236, 232, 232);
+        /* border: 1px solid black; */
+    }
+    .second-ig-home,.second-ig-msg,
+    .second-ig-more,.second-ig-video,
+    .second-ig-heart, .second-ig-profile
+    {
+        width: 23px;
+        height: 23px;
+        margin: 0px 30px;
+    }
+}
+/* @media screen and (max-width: 640px)
+{
+    
+} */
+@media screen and (max-width: 560px)
+{
+    .second-ig-banner{
+        width: 200px;
+        padding: 20px;
+    }
+    
+    .second-ig-home,.second-ig-msg,
+    .second-ig-more,.second-ig-video,
+    .second-ig-heart, .second-ig-profile
+    {
+        width: 25px;
+        height: 25px;
+        margin: 0px 30px;
+    }
+    .second-story-section{
+        width: 100%;
+    }
+    .second-story{
+        width: 40px;
+        height: 40px;
+    }
+    .second-post-section-1{
+        width: 150%;
+    }
+    .second-post-LCS{
+        width: 140%;
+    }
+    h3,.second-comments-1,
+    .second-comments-2,.second-comment-section{
+        width: 140%;
+    }
+}
+@media screen and (max-width: 465px)
+{
+    .second-ig-banner{
+        width: 250px;
+        padding: 50px;
+    }
+    
+    .second-ig-home,.second-ig-msg,
+    .second-ig-more,.second-ig-video,
+    .second-ig-heart, .second-ig-profile
+    {
+        width: 25px;
+        height: 25px;
+        margin: 0px 20px;
+    }
+    .second-story-section{
+        width: 100%;
+    }
+    .second-story{
+        width: 30px;
+        height: 30px;
+    }
+    .second-post-section-1{
+        width: 120%;
+    }
+    .second-post-LCS{
+        width: 120%;
+    }
+    h3,.second-comments-1,
+    .second-comments-2,.second-comment-section{
+        width: 120%;
+    }
+}
+@media screen and (max-width: 375px)
+{
+    .second-ig-banner{
+        width: 290px;
+        padding: 70px;
+    }
+    h2{
+        font-size: 12px;
+    }
+    .second-ig-home,.second-ig-msg,
+    .second-ig-more,.second-ig-video,
+    .second-ig-heart, .second-ig-profile
+    {
+        width: 20px;
+        height: 20px;
+        margin: 0px 18px;
+    }
+    .second-story-section{
+        width: 100%;
+        margin: 2px;
+    }
+    .second-story{
+        width: 20px;
+        height: 20px;
+    }
+    .second-post-section-1{
+        width: 100%;
+    }
+    .second-post-LCS{
+        width: 90%;
+    }
+    h3,.second-comments-1,
+    .second-comments-2,.second-comment-section{
+        width: 90%;
+    }
+}
